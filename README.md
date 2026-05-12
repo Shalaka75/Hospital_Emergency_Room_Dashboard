@@ -19,6 +19,15 @@ Analyzed average daily patient satisfaction scores to evaluate service quality.
 Used trend visualizations to detect drops in satisfaction during busy periods.
 Supported healthcare teams in improving patient experience.
 
+🎯 Business Impact
+
+The dashboard enables hospitals to:
+
+Improve ER operational efficiency
+Reduce patient waiting time
+Monitor patient satisfaction trends
+Support data-driven healthcare decisions
+
 🛠️ Tools & Technologies
 
 📄 Excel / CSV Dataset
