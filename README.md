@@ -1,9 +1,11 @@
 # Hospital_Emergency_Room_Dashboard
 
 📌 Project Overview
+
 This project is an interactive Hospital Emergency Room Dashboard built using Advanced Excel to analyze and monitor emergency room operations. The dashboard helps healthcare management track patient flow, waiting time, admission status, department workload, patient satisfaction, and demographic insights for better decision-making.
 
 📊 Key Metrics & Analysis
+
 👨‍⚕️ Number of Patients
 Tracked the total number of patients visiting the ER daily.
 Used an Area Sparkline to identify patient flow trends, peak days, and seasonal patterns.
@@ -18,12 +20,14 @@ Used trend visualizations to detect drops in satisfaction during busy periods.
 Supported healthcare teams in improving patient experience.
 
 🛠️ Tools & Technologies
+
 📄 Excel / CSV Dataset
 🧮 Calcualted Columns
 🧹 Data Cleaning & Transformation
 📊 Data Visualization
 
 🚀 Dashboard Features
+
 Interactive KPI Cards
 Dynamic Filters & Slicers
 Area Sparklines for Trend Analysis
