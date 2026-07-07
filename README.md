@@ -6,7 +6,7 @@ This project is an interactive Hospital Emergency Room Dashboard built using Adv
 
 ## 📊 Dashboard Preview
 
-!Hospital_Emergency_Room_Dashboard.PNG
+Hospital_Emergency_Room_Dashboard.PNG
 
 ## 📊  Key Metrics & Analysis
 
